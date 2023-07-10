@@ -1,0 +1,9 @@
+bibliotecas a se instalar
+pandas
+opencv
+pillow
+sklearn
+skimage
+numpy
+pprint
+matplot
